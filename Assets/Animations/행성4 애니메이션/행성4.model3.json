@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "행성4.moc3",
+		"Textures": [
+			"행성4.1024/texture_00.png"
+		],
+		"DisplayInfo": "행성4.cdi3.json"
+	}
+}
